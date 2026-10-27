@@ -1,0 +1,13 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Temporary files
+*.log
+.ipynb_checkpoints/
+
+# Open vSwitch source/build directory
+openvswitch-4.0.0/

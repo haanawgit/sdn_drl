@@ -1,0 +1,9 @@
+OFPST_FLOW reply (OF1.3) (xid=0x2):
+ cookie=0x0, duration=86.064s, table=0, n_packets=1, n_bytes=70, idle_timeout=60, hard_timeout=120, priority=10,in_port=4,dl_src=6e:04:ab:01:c8:7a,dl_dst=33:33:00:00:00:02 actions=output:1
+ cookie=0x0, duration=85.295s, table=0, n_packets=1, n_bytes=70, idle_timeout=60, hard_timeout=120, priority=10,in_port=1,dl_src=0e:e4:b0:7b:7f:de,dl_dst=33:33:00:00:00:02 actions=output:2
+ cookie=0x0, duration=83.703s, table=0, n_packets=1, n_bytes=70, idle_timeout=60, hard_timeout=120, priority=10,in_port=4,dl_src=fe:b6:29:32:ef:5e,dl_dst=33:33:00:00:00:02 actions=output:1
+ cookie=0x0, duration=81.709s, table=0, n_packets=1, n_bytes=70, idle_timeout=60, hard_timeout=120, priority=10,in_port=2,dl_src=e2:57:a1:29:c3:69,dl_dst=33:33:00:00:00:02 actions=output:1
+ cookie=0x0, duration=81.709s, table=0, n_packets=1, n_bytes=70, idle_timeout=60, hard_timeout=120, priority=10,in_port=3,dl_src=26:de:7f:dc:e2:e6,dl_dst=33:33:00:00:00:02 actions=output:1
+ cookie=0x0, duration=62.448s, table=0, n_packets=24, n_bytes=2240, idle_timeout=60, hard_timeout=120, priority=10,in_port=1,dl_src=0e:e4:b0:7b:7f:de,dl_dst=fe:b6:29:32:ef:5e actions=output:4
+ cookie=0x0, duration=62.437s, table=0, n_packets=23, n_bytes=2142, idle_timeout=60, hard_timeout=120, priority=10,in_port=4,dl_src=fe:b6:29:32:ef:5e,dl_dst=0e:e4:b0:7b:7f:de actions=output:1
+ cookie=0x0, duration=92.531s, table=0, n_packets=8, n_bytes=532, priority=0 actions=CONTROLLER:65535
